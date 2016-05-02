@@ -1,4 +1,4 @@
-package com.example.hl.atest1;
+package com.hl;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,4 +1,4 @@
-package com.example.hl.atest1;
+package com.hl;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

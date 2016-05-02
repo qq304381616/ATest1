@@ -1,4 +1,4 @@
-package com.example.hl.atest1;
+package com.hl;
 
 import org.junit.Test;
 
